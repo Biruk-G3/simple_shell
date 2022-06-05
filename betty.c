@@ -1,12 +1,12 @@
 #include <stdio.h>
-
-/*
- *main - is the main function
- *return 0 - always true 
-*/
-int main() {
-   // printf() displays the string inside quotation
-   printf("Hello, World!");
-   return 0;
+/**
+ * main- the main function
+ *my hello. printf task
+ * Return: 0 after printing your function
+ */
+int main(void)
+{
+printf("with proper grammar, but the outcome is a piece of art,\n");
+return (0);
 }
 
